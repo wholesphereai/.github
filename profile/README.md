@@ -6,10 +6,6 @@
 
 <p align="center">Building practical tools for the age of AI.</p>
 
-<p align="center">
-  <a href="https://x.com/wholesphereai">X</a>
-</p>
-
 ---
 
 ## About

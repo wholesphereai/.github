@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wholesphereai/.github/main/profile/logo.png" alt="Wholesphere" width="120" />
+  <img src="logo.png" alt="Wholesphere" width="120" />
 </p>
 
 <h1 align="center">Wholesphere</h1>

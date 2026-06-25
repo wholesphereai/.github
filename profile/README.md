@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Wholesphere" width="120" />
+  <img src="logo.jpg" alt="Wholesphere" width="120" />
 </p>
 
 <h1 align="center">Wholesphere</h1>

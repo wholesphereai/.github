@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Wholesphere" width="120" />
+  <img src="logo.png" alt="Wholesphere" width="120" />
 </p>
 
 <h1 align="center">Wholesphere</h1>
@@ -28,7 +28,7 @@ Our approach is consistent across everything we build. Useful tools over hype, h
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
 </p>
 
-A drop-in security gateway for AI agents. It flags prompt injection, jailbreaks, and agent abuse on every call — one environment variable, no code changes, no SDK. A pattern-matching engine, not a model: fast, no GPU required, easy to audit. Detection-only by design — it flags traffic but never blocks or alters it.
+A drop-in security gateway for AI agents. It flags prompt injection, jailbreaks, and agent abuse on every call, one environment variable, no code changes, no SDK. A pattern-matching engine, not a model: fast, no GPU required, easy to audit. Detection-only by design, it flags traffic but never blocks or alters it.
 
 [usecalus.com](https://usecalus.com)
 

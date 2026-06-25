@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Wholesphere" width="120" style="border-radius: 16px;" />
+  <img src="logo.jpg" alt="Wholesphere" width="120" />
 </p>
 
 <h1 align="center">Wholesphere</h1>
@@ -32,8 +32,3 @@ A drop-in security gateway for AI agents. It flags prompt injection, jailbreaks,
 
 [usecalus.com](https://usecalus.com)
 
----
-
-## Links
-
-[wholesphereai.com](https://wholesphereai.com)

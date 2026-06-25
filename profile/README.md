@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Wholesphere" width="120" />
+  <img src="logo.jpg" alt="Wholesphere" width="120" style="border-radius: 16px;" />
 </p>
 
 <h1 align="center">Wholesphere</h1>
@@ -14,11 +14,11 @@ Wholesphere is an AI company. We build tools that make AI systems easier to run,
 
 As software shifts from single prompts to systems that reason, call tools, and act on their own, a gap opens between what these systems can do and what teams can actually see and control. We work on that gap. Our goal is to give the people building and running AI the visibility, safety, and confidence to ship it for real.
 
-Our approach is consistent across everything we build. Useful tools over hype, honest benchmarks over cherry picked numbers, and respect for the people running systems in production. We give you clear signal and let you decide what to do with it.
+Our approach is consistent across everything we build. Useful tools over hype, honest benchmarks over cherry-picked numbers, and respect for the people running systems in production. We give you clear signal and let you decide what to do with it.
 
 ---
 
-## Core Ecosystem
+## Products
 
 ### [Calus](https://github.com/wholesphereai/calus) — Security gateway for AI agents
 
@@ -28,11 +28,12 @@ Our approach is consistent across everything we build. Useful tools over hype, h
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
 </p>
 
-A drop in security gateway for AI agents. It flags prompt injection, jailbreaks, and agent abuse on every call. One environment variable, no code changes, no SDK. A pattern matching engine, not a model, so it is fast, needs no GPU, and is easy to audit. Detection only by design: it flags traffic but never blocks or alters it.
+A drop-in security gateway for AI agents. It flags prompt injection, jailbreaks, and agent abuse on every call — one environment variable, no code changes, no SDK. A pattern-matching engine, not a model: fast, no GPU required, easy to audit. Detection-only by design — it flags traffic but never blocks or alters it.
+
+[usecalus.com](https://usecalus.com)
 
 ---
 
 ## Links
 
-Calus: [usecalus.com](https://usecalus.com)
-X: [@wholesphereai](https://x.com/wholesphereai)
+[wholesphereai.com](https://wholesphereai.com)
